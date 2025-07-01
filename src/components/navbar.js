@@ -14,3 +14,4 @@ function  Navbar({cartCount}){
 
 
 }
+export default Navbar;
